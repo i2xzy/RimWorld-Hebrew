@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- EN: Wiki -->
-  <Wiki>Wiki</Wiki>
-  <!-- EN: Opens Web browser to see the RimWorld wiki and get help playing. -->
-  <WikiTip>Opens Web browser to see the RimWorld wiki and get help playing.</WikiTip>
-  <!-- EN: Menu -->
-  <Menu>Menu</Menu>
-
+<!-- EN: Wiki -->
+  <Wiki>ויקיפדיה</Wiki>
+<!-- EN: Opens Web browser to see the RimWorld wiki and get help playing. -->
+  <WikiTip>.פותח דפדפן רשת בשביל לראות את הויקיפדיה של רימוורלד ולקבל עזרה במשחק</WikiTip>
+<!-- EN: Menu -->
+  <Menu>תפריט</Menu>
 </LanguageData>
